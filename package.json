@@ -1,0 +1,11 @@
+{
+  "name": "tutorial-nodejs-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wguilherme/tutorial-nodejs-api.git",
+  "author": "W. Guilherme <ravok123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
